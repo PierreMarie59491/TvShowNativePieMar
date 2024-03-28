@@ -1,5 +1,5 @@
 import axios from "axios";
-import { API_KEY_PARAM, BASE_URL } from "../config";
+
 const BASE_URL = "https://api.themoviedb.org/3/"
 const API_KEY_PARAM = "?api_key=0e49479bd42be0ad81a4e9cf929aaf11"
 const BACKDROP_BASE_URL = "https://image.tmdb.org/t/p/original/"
